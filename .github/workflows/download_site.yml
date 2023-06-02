@@ -2,7 +2,7 @@ name: Download Site
 
 env:
   # ENTER SITE DOMAIN HERE. Example: hello.framer.website
-  SITE_DOMAIN: https://www.contractdecor.net/
+  SITE_DOMAIN: contractdecor.net
 
 on:
   # UNCOMMENT THIS TO AUTO-RUN PERIODICALLY. DEFAULT IS EVERY 5 MINS
